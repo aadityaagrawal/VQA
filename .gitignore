@@ -1,0 +1,4 @@
+env/
+VQA-15/datasets/
+*.ipynb_checkpoints
+*.DS_Store
